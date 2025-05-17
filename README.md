@@ -18,9 +18,3 @@
 - GitHub Actions (CI/CD)
 - Vercel Hosting
 
-## 📂 Running Locally
-```bash
-git clone https://github.com/YOUR_USERNAME/bugsnap.git
-cd bugsnap
-npm install
-npm run dev
